@@ -326,3 +326,12 @@ h4 {
   bottom: 0;
   left: 210px;
 }
+
+.proj-span {
+  background: linear-gradient(90deg, #6f3891 0%, #54c7ce 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-decoration: underline;
+  font-weight: bold;
+}
