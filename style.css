@@ -36,12 +36,13 @@ button {
 }
 
 button:hover {
-  transform: scale(1.1);
+  /* transform: scale(1.1); */
   color: #ffffff;
 }
 
 h3 {
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   font-family: "Rubik", sans-serif;
   margin-left: auto;
   margin-right: auto;
@@ -62,9 +63,10 @@ h3 {
 .flex {
   display: flex;
   justify-content: space-around;
-  height: 90%;
-  width: 80%;
+  height: 80%;
+  width: 95%;
   margin: auto;
+  flex-wrap: wrap;
   /* align-items: center; */
 }
 
@@ -162,6 +164,7 @@ h3 {
   height: 470px;
   background: #f9f9f9;
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 18px;
 }
 
 #profile-img {
@@ -231,3 +234,23 @@ h3 {
   justify-content: space-around;
   align-items: center;
 }
+
+.tool-wrapper {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tool-wrapper p {
+  text-align: center;
+}
+
+.tool-wrapper img {
+  display: block;
+  /* text-align: center; */
+  width: 81px;
+  height: 81px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* #tool; */
