@@ -139,6 +139,7 @@ h4 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   border: none;
+  padding: 1px;
 }
 
 #intro-p-span {
@@ -147,6 +148,7 @@ h4 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   border: none;
+  padding: 1px;
 }
 
 #intro-p {
