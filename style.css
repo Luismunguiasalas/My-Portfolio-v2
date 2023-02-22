@@ -214,10 +214,10 @@ h4 {
 #descr-wrapper p {
   font-family: "Rubik", sans-serif;
   padding: 7px;
-  background: linear-gradient(90deg, #00416a 0%, #b19264 100%);
+  /* background: linear-gradient(90deg, #00416a 0%, #b19264 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-clip: text;
+  background-clip: text; */
   font-weight: bold;
   font-size: 14px;
   line-height: 25px;
