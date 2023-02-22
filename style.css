@@ -13,6 +13,10 @@ body {
   background-color: #ffffff;
 }
 
+p {
+  font-family: "Rubik", sans-serif;
+}
+
 nav {
   width: 418px;
   height: 38px;
@@ -62,6 +66,7 @@ h3 {
 }
 
 h4 {
+  font-family: "Rubik", sans-serif;
   /* font-weight: 700; */
   /* font-size: 14px; */
   /* line-height: 17px; */
