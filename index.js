@@ -17,7 +17,7 @@ upButtonEl.onclick = () => {
   } else if (index === 1) {
     index = 0;
     profileEl.src = profileImagesArr[index];
-    descriptionEl.innerText = descriptionArr[index];
+    descriptionEl.innerHTML = descriptionArr[index];
   } else if (index === 2) {
     // index = 0;
     // profileEl.src = profileImagesArr[index];
